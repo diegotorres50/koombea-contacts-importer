@@ -60,3 +60,44 @@ if you are going to import large files with many records, i suggest to run queue
 ```php artisan queue:work```
 
 ![php_artisan_queue.png](php_artisan_queue.png)
+
+
+## How to use it
+
+#### You need to be autheticated
+
+![login_zone.png](login_zone.png)
+
+You may use next credentials to log in application:
+
+    - User: koombea2@koombea.co
+    - Pass: 12345678
+
+However, i recommend to register your user:
+
+![register.png](register.png)
+
+
+#### Import your contacts
+
+![documents.png](documents.png)
+
+Once logged, you may click on Contact list button
+
+![importing.png](importing.png)
+
+Pickup a CSV format file (separated values by semicolon ";") with click on Browse button and finally click on Upload button as shown above. 
+
+
+#### View importing history
+
+![imported_files.png](imported_files.png)
+
+To see importing files history, you may click on Import Contacts
+
+
+#### Monitor errors
+
+![invalid_imports.png](invalid_imports.png)
+
+In case you got errors while importing files, you may click on Errors button to see a log.
