@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.koombea.com/" target="_blank"><img src="https://www.koombea.com/wp-content/uploads/2020/04/Logo-with-solid-background.jpg"></a></p>
 
-## Koombea Challenge - Contact Importer by means of Laravel
+## Koombea Challenge - Contact Importer with Laravel by Diego Torres 👋
 
 This is a technical test to import contacts keeping in mind some rules that you may read [here](RFC.md).
 
@@ -101,3 +101,14 @@ To see importing files history, you may click on Import Contacts
 ![invalid_imports.png](invalid_imports.png)
 
 In case you got errors while importing files, you may click on Errors button to see a log.
+
+
+## Author
+
+👤 **Diego Torres**
+
+- Linkedin: [https://www.linkedin.com/in/diegotorrescampuzano/](https://www.linkedin.com/in/diegotorrescampuzano/)
+
+---
+
+_Thanks so much Koombea ❤️_
