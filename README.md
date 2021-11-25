@@ -7,8 +7,9 @@ This is a technical test to import contacts keeping in mind some rules that you 
 
 ## ✨ Demo
 
-On the other hand, you may be interested to try this demo out, so feel free to do it here: http://contacts-manager-freelancercontracts166926.codeanyapp.com/ 
+On the other hand, you may be interested to try this demo out, so feel free to do it here: [http://contacts-manager-freelancercontracts166926.codeanyapp.com/](http://contacts-manager-freelancercontracts166926.codeanyapp.com/){:target="_blank"} 
 
+By the way, i decided to use https://codeanywhere.com/ to deploy my demo
 
 ## What you are going to get
 
