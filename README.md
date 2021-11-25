@@ -4,7 +4,11 @@
 
 This is a technical test to import contacts keeping in mind some rules that you may read [here](RFC.md).
 
+
+## ✨ Demo
+
 On the other hand, you may be interested to try this demo out, so feel free to do it here: http://contacts-manager-freelancercontracts166926.codeanyapp.com/ 
+
 
 ## What you are going to get
 
