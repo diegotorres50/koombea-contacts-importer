@@ -68,6 +68,16 @@ if you are going to import large files with many records, i suggest to run queue
 
 ## How to use it
 
+#### Demo CSV files
+
+By the way, if you have no time to make csv files to test, no worries, please, feel free to dowload some files already to use localed in demo_csv_files directory of this project, just click [here](demo_csv_files).
+
+You may find several samples:
+
+- **Successful contact records**: sample_200_records.csv, sample_50_records.csv and sample_5_records.csv
+
+- **Failed contact records**: sample_10_records_witherrors.csv, with this sample you may test how some incorrect records are skipped and recorded in errors log
+
 #### You need to be autheticated
 
 ![login_zone.png](login_zone.png)
