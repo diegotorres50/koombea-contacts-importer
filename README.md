@@ -109,6 +109,25 @@ In case you got errors while importing files, you may click on Errors button to 
 
 - Linkedin: [https://www.linkedin.com/in/diegotorrescampuzano/](https://www.linkedin.com/in/diegotorrescampuzano/)
 
+
+## Code Contributors
+
+#### Why invent the wheel?
+
+I decided to use some third-party libraries to solve credit card validations and excel file manipulation and i think that they deserve the credit :)
+
+- **PHP Credit Cards**: A PHP package to perform operations on debit and credit cards like format, validate brand, number and Luhn algorithm. It validates popular brands like Visa, Mastercard, American Express, etc. 
+
+This package is based on the braintree/credit-card-type javascript package. All the card types configuration have been extracted from it.
+
+You may find further information in here: https://github.com/jlorente/php-credit-cards
+
+- **Laravel Excel**: 🚀 Laravel Excel is intended at being Laravel-flavoured PhpSpreadsheet: a simple, but elegant wrapper around PhpSpreadsheet with the goal of simplifying exports and imports.
+
+🔥 PhpSpreadsheet (opens new window)is a library written in pure PHP and providing a set of classes that allow you to read from and to write to different spreadsheet file formats, like Excel and LibreOffice Calc.
+
+You may find further information in here: https://laravel-excel.com/
+
 ---
 
 _Thanks so much Koombea ❤️_
