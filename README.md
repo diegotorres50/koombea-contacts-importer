@@ -70,7 +70,7 @@ if you are going to import large files with many records, i suggest to run queue
 
 #### Demo CSV files
 
-By the way, if you have no time to make csv files to test, no worries, please, feel free to dowload some files already to use localed in demo_csv_files directory of this project, just click [here](demo_csv_files).
+By the way, if you have no time to make csv files to test, no worries, please, feel free to dowload some files already to use localed in demo_csv_files directory of this project, just click [here](demo_csv_files), even if you wish, download csv_files_sample.zip there.
 
 You may find several samples:
 
